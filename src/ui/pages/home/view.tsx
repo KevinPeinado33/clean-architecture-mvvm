@@ -23,7 +23,7 @@ const HomePage = () => {
   }  
 
   return (
-    <div className='grid grid-cols-2'>
+    <div className='flex flex-col '>
       
       {
         viewModel.users.map( user => (
@@ -31,6 +31,347 @@ const HomePage = () => {
         ))
       }
 
+      <Button 
+        text='Agregar'
+        variant='primary'
+        onClick={ handleCreateUser }      
+      />
+
+      <Button 
+        text='Cargar'
+        variant='danger'
+        onClick={ handleChangeLoading }      
+      />
+      <Button 
+        text='Agregar'
+        variant='primary'
+        onClick={ handleCreateUser }      
+      />
+
+      <Button 
+        text='Cargar'
+        variant='danger'
+        onClick={ handleChangeLoading }      
+      />
+      <Button 
+        text='Agregar'
+        variant='primary'
+        onClick={ handleCreateUser }      
+      />
+
+      <Button 
+        text='Cargar'
+        variant='danger'
+        onClick={ handleChangeLoading }      
+      />
+      <Button 
+        text='Agregar'
+        variant='primary'
+        onClick={ handleCreateUser }      
+      />
+
+      <Button 
+        text='Cargar'
+        variant='danger'
+        onClick={ handleChangeLoading }      
+      />
+      <Button 
+        text='Agregar'
+        variant='primary'
+        onClick={ handleCreateUser }      
+      />
+
+      <Button 
+        text='Cargar'
+        variant='danger'
+        onClick={ handleChangeLoading }      
+      />
+      <Button 
+        text='Agregar'
+        variant='primary'
+        onClick={ handleCreateUser }      
+      />
+
+      <Button 
+        text='Cargar'
+        variant='danger'
+        onClick={ handleChangeLoading }      
+      />
+      <Button 
+        text='Agregar'
+        variant='primary'
+        onClick={ handleCreateUser }      
+      />
+
+      <Button 
+        text='Cargar'
+        variant='danger'
+        onClick={ handleChangeLoading }      
+      />
+      <Button 
+        text='Agregar'
+        variant='primary'
+        onClick={ handleCreateUser }      
+      />
+
+      <Button 
+        text='Cargar'
+        variant='danger'
+        onClick={ handleChangeLoading }      
+      />
+      <Button 
+        text='Agregar'
+        variant='primary'
+        onClick={ handleCreateUser }      
+      />
+
+      <Button 
+        text='Cargar'
+        variant='danger'
+        onClick={ handleChangeLoading }      
+      />
+      <Button 
+        text='Agregar'
+        variant='primary'
+        onClick={ handleCreateUser }      
+      />
+
+      <Button 
+        text='Cargar'
+        variant='danger'
+        onClick={ handleChangeLoading }      
+      />
+      <Button 
+        text='Agregar'
+        variant='primary'
+        onClick={ handleCreateUser }      
+      />
+
+      <Button 
+        text='Cargar'
+        variant='danger'
+        onClick={ handleChangeLoading }      
+      />
+      <Button 
+        text='Agregar'
+        variant='primary'
+        onClick={ handleCreateUser }      
+      />
+
+      <Button 
+        text='Cargar'
+        variant='danger'
+        onClick={ handleChangeLoading }      
+      />
+      <Button 
+        text='Agregar'
+        variant='primary'
+        onClick={ handleCreateUser }      
+      />
+
+      <Button 
+        text='Cargar'
+        variant='danger'
+        onClick={ handleChangeLoading }      
+      />
+      <Button 
+        text='Agregar'
+        variant='primary'
+        onClick={ handleCreateUser }      
+      />
+
+      <Button 
+        text='Cargar'
+        variant='danger'
+        onClick={ handleChangeLoading }      
+      />
+      <Button 
+        text='Agregar'
+        variant='primary'
+        onClick={ handleCreateUser }      
+      />
+
+      <Button 
+        text='Cargar'
+        variant='danger'
+        onClick={ handleChangeLoading }      
+      />
+      <Button 
+        text='Agregar'
+        variant='primary'
+        onClick={ handleCreateUser }      
+      />
+
+      <Button 
+        text='Cargar'
+        variant='danger'
+        onClick={ handleChangeLoading }      
+      />
+      <Button 
+        text='Agregar'
+        variant='primary'
+        onClick={ handleCreateUser }      
+      />
+
+      <Button 
+        text='Cargar'
+        variant='danger'
+        onClick={ handleChangeLoading }      
+      />
+      <Button 
+        text='Agregar'
+        variant='primary'
+        onClick={ handleCreateUser }      
+      />
+
+      <Button 
+        text='Cargar'
+        variant='danger'
+        onClick={ handleChangeLoading }      
+      />
+      <Button 
+        text='Agregar'
+        variant='primary'
+        onClick={ handleCreateUser }      
+      />
+
+      <Button 
+        text='Cargar'
+        variant='danger'
+        onClick={ handleChangeLoading }      
+      />
+      <Button 
+        text='Agregar'
+        variant='primary'
+        onClick={ handleCreateUser }      
+      />
+
+      <Button 
+        text='Cargar'
+        variant='danger'
+        onClick={ handleChangeLoading }      
+      />
+      <Button 
+        text='Agregar'
+        variant='primary'
+        onClick={ handleCreateUser }      
+      />
+
+      <Button 
+        text='Cargar'
+        variant='danger'
+        onClick={ handleChangeLoading }      
+      />
+      <Button 
+        text='Agregar'
+        variant='primary'
+        onClick={ handleCreateUser }      
+      />
+
+      <Button 
+        text='Cargar'
+        variant='danger'
+        onClick={ handleChangeLoading }      
+      />
+      <Button 
+        text='Agregar'
+        variant='primary'
+        onClick={ handleCreateUser }      
+      />
+
+      <Button 
+        text='Cargar'
+        variant='danger'
+        onClick={ handleChangeLoading }      
+      />
+      <Button 
+        text='Agregar'
+        variant='primary'
+        onClick={ handleCreateUser }      
+      />
+
+      <Button 
+        text='Cargar'
+        variant='danger'
+        onClick={ handleChangeLoading }      
+      />
+      <Button 
+        text='Agregar'
+        variant='primary'
+        onClick={ handleCreateUser }      
+      />
+
+      <Button 
+        text='Cargar'
+        variant='danger'
+        onClick={ handleChangeLoading }      
+      />
+      <Button 
+        text='Agregar'
+        variant='primary'
+        onClick={ handleCreateUser }      
+      />
+
+      <Button 
+        text='Cargar'
+        variant='danger'
+        onClick={ handleChangeLoading }      
+      />
+      <Button 
+        text='Agregar'
+        variant='primary'
+        onClick={ handleCreateUser }      
+      />
+
+      <Button 
+        text='Cargar'
+        variant='danger'
+        onClick={ handleChangeLoading }      
+      />
+      <Button 
+        text='Agregar'
+        variant='primary'
+        onClick={ handleCreateUser }      
+      />
+
+      <Button 
+        text='Cargar'
+        variant='danger'
+        onClick={ handleChangeLoading }      
+      />
+      <Button 
+        text='Agregar'
+        variant='primary'
+        onClick={ handleCreateUser }      
+      />
+
+      <Button 
+        text='Cargar'
+        variant='danger'
+        onClick={ handleChangeLoading }      
+      />
+      <Button 
+        text='Agregar'
+        variant='primary'
+        onClick={ handleCreateUser }      
+      />
+
+      <Button 
+        text='Cargar'
+        variant='danger'
+        onClick={ handleChangeLoading }      
+      />
+      <Button 
+        text='Agregar'
+        variant='primary'
+        onClick={ handleCreateUser }      
+      />
+
+      <Button 
+        text='Cargar'
+        variant='danger'
+        onClick={ handleChangeLoading }      
+      />
       <Button 
         text='Agregar'
         variant='primary'
